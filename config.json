@@ -2,6 +2,7 @@
     "name": "Holt Laury Task Survey",
     "template":"survey",
     "exp_id": "holt-laury-survey",
+    "url": "https://github.com/expfactory-experiments/holt-laury-survey",
     "cognitive_atlas_task_id": "trm_56674f71483b0",
     "contributors": [
              "Zeynep Enkavi",
