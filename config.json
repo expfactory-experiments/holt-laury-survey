@@ -1,0 +1,18 @@
+{
+    "name": "Holt Laury Task Survey",
+    "template":"survey",
+    "exp_id": "holt-laury-survey",
+    "cognitive_atlas_task_id": "trm_56674f71483b0",
+    "contributors": [
+             "Zeynep Enkavi",
+             "Ian Eisenberg",
+             "Patrick Bissett",
+             "Vanessa Sochat",
+             "Russell Poldrack"
+            ], 
+    "time":1,
+    "reference": ["http://users.nber.org/~rosenbla/econ311-04/syllabus/holtlaury.pdf"],
+    "description": "Experiment Factory survey",
+    "instructions": "Please answer the following questions to the best of your ability"
+}
+
